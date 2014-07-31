@@ -1,0 +1,1 @@
+1. incorporate NTF cloud mask into footprinting processing
