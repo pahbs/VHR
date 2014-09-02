@@ -1,1 +1,6 @@
-1. incorporate NTF cloud mask into footprinting processing
+DATE		DESC
+
+9/2/2014	incorporate NTF cloud mask into footprinting processing
+9/2/2014	calc area of intersect of nitf raster footprints for each potential pair and include in new field in csvSTEREOFOOT.csv
+9/2/2014	export list of pairs that meet CC, isect, and temporal criteria
+9/2/2014	for each pair that meet criteria, make a wrapper function to call ASP script on Goddard cloud
